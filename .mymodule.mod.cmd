@@ -1,1 +1,0 @@
-savedcmd_/home/ddesc/linux-6.6.5/buildroot/gavin_module/mymodule.mod := printf '%s\n'   mymodule.o | awk '!x[$$0]++ { print("/home/ddesc/linux-6.6.5/buildroot/gavin_module/"$$0) }' > /home/ddesc/linux-6.6.5/buildroot/gavin_module/mymodule.mod
