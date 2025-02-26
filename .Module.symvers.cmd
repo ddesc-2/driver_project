@@ -1,1 +1,0 @@
-savedcmd_/home/ddesc/linux-6.6.5/buildroot/gavin_module/Module.symvers :=  scripts/mod/modpost -M        -o /home/ddesc/linux-6.6.5/buildroot/gavin_module/Module.symvers -T /home/ddesc/linux-6.6.5/buildroot/gavin_module/modules.order -i Module.symvers -e 
